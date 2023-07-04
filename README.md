@@ -28,6 +28,7 @@
 * `apt install python`
 * `apt install python2`
 * `apt install python3`
+* `rm -rf ULTRA_DDOS`
 * `git clone https://github.com/U7P4L-IN/ULTRA_DDOS`
 * `pip3 install requests`
 
