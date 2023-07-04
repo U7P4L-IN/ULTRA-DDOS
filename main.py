@@ -4,6 +4,9 @@ import random
 import sys
 
 os.system("clear")
+os.system('xdg-open https://github.com/U7P4L-IN')
+os.system('xdg-open https://github.com/U7P4L-IN')
+os.system("clear")
 os.system("python src/logo.py")
 
 
