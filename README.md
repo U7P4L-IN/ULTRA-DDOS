@@ -1,7 +1,7 @@
 
 <p align="center">
-<a href="https://github.com/U7P4L-IN/ULTRA_DDOS"><img title="Version" src="https://img.shields.io/badge/Version-1.1.0-darkblue?style=for-the-badge&logo="></a>
-<a href="https://github.com/U7P4L-IN/ULTRA_DDOS/blob/main/LICENSE"><img title="License" src="https://img.shields.io/badge/License-MPL-blue?style=for-the-badge&logo=Mozilla_Public_License"></a>
+<a href="https://github.com/U7P4L-IN/ULTRA-DDOS"><img title="Version" src="https://img.shields.io/badge/Version-1.1.0-darkblue?style=for-the-badge&logo="></a>
+<a href="https://github.com/U7P4L-IN/ULTRA-DDOS/blob/main/LICENSE"><img title="License" src="https://img.shields.io/badge/License-MPL-blue?style=for-the-badge&logo=Mozilla_Public_License"></a>
 <a href=""><img title="Python" src="https://img.shields.io/badge/Python-3.7-blue?style=for-the-badge&logo=python"></a>
 <a href="https://github.com/U7P4L-IN"><img title="Report" src="https://img.shields.io/badge/Copyring-2023-blue?style=for-the-badge&logo=github"></a>
 
@@ -9,10 +9,10 @@
 </p>
 
 <p align="center">
-• <a href="https://github.com/U7P4L-IN/ULTRA_DDOS/blob/main/LICENSE">License</a> 
-• <a href="https://github.com/U7P4L-IN/ULTRA_DDOS/issues">Issues</a> 
-• <a href="https://github.com/U7P4L-IN/ULTRA_DDOS/projects">Project</a> 
-• <a href="https://github.com/U7P4L-IN/ULTRA_DDOS/wiki">Wikipedia</a> •
+• <a href="https://github.com/U7P4L-IN/ULTRA-DDOS/blob/main/LICENSE">License</a> 
+• <a href="https://github.com/U7P4L-IN/ULTRA-DDOS/issues">Issues</a> 
+• <a href="https://github.com/U7P4L-IN/ULTRA-DDOS/projects">Project</a> 
+• <a href="https://github.com/U7P4L-IN/ULTRA-DDOS/wiki">Wikipedia</a> •
 
 </p>
 
@@ -29,13 +29,13 @@
 * `apt install python2`
 * `apt install python3`
 * `rm -rf ULTRA_DDOS`
-* `git clone https://github.com/U7P4L-IN/ULTRA_DDOS`
+* `git clone https://github.com/U7P4L-IN/ULTRA-DDOS`
 * `pip3 install requests`
 
 
 #### Finished you have successfully downloaded Ultra-DDos now to launch!
 
-* `cd ULTRA_DDOS`
+* `cd ULTRA-DDOS`
 * `python2 main.py`
 
 -----
