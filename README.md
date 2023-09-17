@@ -1,4 +1,3 @@
-
 <p align="center">
 <a href="https://github.com/U7P4L-IN/ULTRA-DDOS"><img title="Version" src="https://img.shields.io/badge/Version-1.1.0-darkblue?style=for-the-badge&logo="></a>
 <a href="https://github.com/U7P4L-IN/ULTRA-DDOS/blob/main/LICENSE"><img title="License" src="https://img.shields.io/badge/License-MPL-blue?style=for-the-badge&logo=Mozilla_Public_License"></a>
